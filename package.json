@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-weaveworks",
+  "version": "1.0.0",
+  "description": "Weaveworks eslint config for JS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guyfedwards <guy@weave.works>",
+  "license": "Apache-2.0",
+  "peerDependencies": {
+    "babel-eslint": "^4.17.0",
+    "eslint": "^4.0.0",
+    "eslint-config-airbnb": "16.1.0",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-flowtype": "2.49.3",
+    "eslint-plugin-import": "2.12.0",
+    "eslint-plugin-jsx-a11y": "6.0.3",
+    "eslint-plugin-prettier": "2.6.0",
+    "eslint-plugin-react": "7.6.1"
+  },
+  "repository": "https://github.com/weaveworks/eslint-config-weaveworks"
+}
